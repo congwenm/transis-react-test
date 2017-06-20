@@ -1,10 +1,12 @@
 {
-  "name": "transis-react",
+  "name": "transis-react-test",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "react": "^15.6.1",
-    "react-dom": "^15.6.1"
+    "react-dom": "^15.6.1",
+    "transis": "^0.11.0",
+    "transis-react": "^1.0.5"
   },
   "devDependencies": {
     "react-scripts": "1.0.7"
