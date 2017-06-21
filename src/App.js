@@ -42,7 +42,8 @@ setInterval(() =>
 globalObj.book = new Book({
   name: 'A catcher in the rye',
   author: new Author({
-    name: 'Salinger'
+    name: 'Salinger',
+    age: 17
   })
 })
 
